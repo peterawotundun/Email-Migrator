@@ -96,7 +96,7 @@ def connect_imap(host, port, user, password, label, provider_name="Generic"):
 
 def main():
     print("=====================================================")
-    print("   PLUTO TECH UNIVERSAL EMAIL MIGRATION TOOL v1.1    ")
+    print("   PETER SE UNIVERSAL EMAIL MIGRATION TOOL v1.1    ")
     print("=====================================================")
     
     # --- SOURCE CONFIGURATION ---
